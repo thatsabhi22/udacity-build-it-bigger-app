@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BuildItBigger-BuildItBiggerApp.iml" filepath="$PROJECT_DIR$/BuildItBigger-BuildItBiggerApp.iml" group="BuildItBiggerApp" />
-      <module fileurl="file://$PROJECT_DIR$/app/BuildItBigger-BuildItBiggerApp-app.iml" filepath="$PROJECT_DIR$/app/BuildItBigger-BuildItBiggerApp-app.iml" group="BuildItBiggerApp/app" />
-      <module fileurl="file://$PROJECT_DIR$/backend/BuildItBigger-BuildItBiggerApp-backend.iml" filepath="$PROJECT_DIR$/backend/BuildItBigger-BuildItBiggerApp-backend.iml" group="BuildItBiggerApp/backend" />
       <module fileurl="file://$PROJECT_DIR$/BuildItBiggerApp.iml" filepath="$PROJECT_DIR$/BuildItBiggerApp.iml" group="BuildItBiggerApp" />
-      <module fileurl="file://$PROJECT_DIR$/app/BuildItBiggerApp-app.iml" filepath="$PROJECT_DIR$/app/BuildItBiggerApp-app.iml" group="BuildItBiggerApp/app" />
-      <module fileurl="file://$PROJECT_DIR$/backend/BuildItBiggerApp-backend.iml" filepath="$PROJECT_DIR$/backend/BuildItBiggerApp-backend.iml" group="BuildItBiggerApp/backend" />
-      <module fileurl="file://$PROJECT_DIR$/Course-BuildItBigger-BuildItBiggerApp.iml" filepath="$PROJECT_DIR$/Course-BuildItBigger-BuildItBiggerApp.iml" group="BuildItBiggerApp" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="BuildItBiggerApp/app" />
       <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" group="BuildItBiggerApp/backend" />
     </modules>
